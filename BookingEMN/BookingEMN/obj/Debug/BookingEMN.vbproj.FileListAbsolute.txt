@@ -29,3 +29,4 @@ c:\users\jagua\documents\visual studio 2015\Projects\BookingEMN\BookingEMN\obj\D
 c:\users\jagua\documents\visual studio 2015\Projects\BookingEMN\BookingEMN\obj\Debug\BookingEMN.dll
 c:\users\jagua\documents\visual studio 2015\Projects\BookingEMN\BookingEMN\obj\Debug\BookingEMN.xml
 c:\users\jagua\documents\visual studio 2015\Projects\BookingEMN\BookingEMN\obj\Debug\BookingEMN.pdb
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\BookingEMN\obj\Debug\BookingEMN.vbprojResolveAssemblyReference.cache
